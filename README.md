@@ -1,4 +1,4 @@
-# complete-machine-learning-nlp-bootcamp-mlops-deployment
+# Complete-machine-learning-nlp-bootcamp-mlops-deployment
 
 **End-to-End implementation of Machine Learning, NLP, and Deep Learning models, with a critical focus on production and MLOps practices.**
 
